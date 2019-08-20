@@ -1,2 +1,2 @@
 # Biometric-Systems
-This repository contains project of the course "Biometric Systems"
+Unimodal Biometric Recognition Systems based on a Convolutional Neural Network 
