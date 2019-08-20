@@ -1,2 +1,1 @@
-# Biometric-Systems
-Unimodal Biometric Recognition Systems based on a Convolutional Neural Network 
+# Unimodal Biometric Recognition Systems based on a Convolutional Neural Network 
